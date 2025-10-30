@@ -35,3 +35,43 @@ It includes a Tkinter GUI, SQLite database for session tracking, and voice feedb
 - Libraries: OpenCV, ultralytics, Tkinter, pyttsx3, SQLite3, NumPy, Matplotlib, Pillow
 
 ---
+
+## 🧬 How It Works
+
+Captures video from webcam
+
+Detects plastic bottles using YOLOv8 (confidence ≥ 0.4)
+
+Displays detections in GUI
+
+Calculates reward (₹2 per bottle)
+
+Logs data into SQLite database
+
+Provides voice feedback and charts
+
+## 📊 Results
+
+Detection Accuracy: ~86%
+
+Smooth real-time detection
+
+User-friendly interface with live stats
+
+Database logging and trend visualization
+
+## 🌍 Community Impact
+
+Promotes recycling through rewards
+
+Encourages eco-friendly behavior
+
+Provides real data for waste management analysis
+
+## ⚠️ Limitations
+
+Works best in good lighting
+
+Only supports one webcam
+
+Detects only plastic bottles
