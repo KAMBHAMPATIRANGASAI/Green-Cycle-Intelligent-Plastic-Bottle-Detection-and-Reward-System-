@@ -1,6 +1,6 @@
 # 🌿 Green-Cycle: Intelligent Plastic Bottle Detection and Reward System
 
-### 🎓 MCA Data Science Project (2024–25)
+### 🎓 MCA Data Science "Computer Vision" Project
 **Author:** K. Ranga Sai  
 **Guide:** Dr. V. Harsha Shastri, Associate Professor, Department of MCA, Aurora University  
 
