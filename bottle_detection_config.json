@@ -1,0 +1,10 @@
+{
+  "reward_per_bottle": 2.0,
+  "detection_confidence": 0.17573964497041422,
+  "roi_width": 200,
+  "roi_height": 180,
+  "detection_cooldown": 2.0,
+  "frame_skip": 2,
+  "tts_enabled": true,
+  "auto_save_interval": 30
+}

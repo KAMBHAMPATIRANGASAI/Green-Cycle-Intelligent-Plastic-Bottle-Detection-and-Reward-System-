@@ -1,0 +1,63 @@
+2025-07-18 09:15:18,351 - INFO - Application started at 11:14 AM IST, July 12, 2025
+2025-07-18 09:15:18,353 - INFO - Setting up SQLite database...
+2025-07-18 09:15:18,358 - INFO - Database setup completed successfully
+2025-07-18 09:15:18,359 - INFO - Loading YOLOv8 model...
+2025-07-18 09:15:18,595 - INFO - Successfully loaded model: yolov8n.pt
+2025-07-18 09:15:18,595 - INFO - Initializing webcam...
+2025-07-18 09:15:22,294 - INFO - Successfully opened camera at index 0
+2025-07-18 09:15:22,316 - INFO - Initializing text-to-speech...
+2025-07-18 09:15:23,708 - INFO - Setting up worker threads...
+2025-07-18 09:15:23,714 - INFO - Detection started
+2025-07-18 09:15:52,273 - INFO - Cleaning up resources...
+2025-07-18 09:15:52,694 - INFO - Cleanup completed
+2025-07-18 14:33:13,672 - INFO - Application started at 11:14 AM IST, July 12, 2025
+2025-07-18 14:33:13,673 - INFO - Setting up SQLite database...
+2025-07-18 14:33:13,680 - INFO - Database setup completed successfully
+2025-07-18 14:33:13,681 - INFO - Loading YOLOv8 model...
+2025-07-18 14:33:13,891 - INFO - Successfully loaded model: yolov8n.pt
+2025-07-18 14:33:13,891 - INFO - Initializing webcam...
+2025-07-18 14:33:17,161 - INFO - Successfully opened camera at index 0
+2025-07-18 14:33:17,185 - INFO - Initializing text-to-speech...
+2025-07-18 14:33:18,578 - INFO - Setting up worker threads...
+2025-07-18 14:33:18,579 - INFO - Detection started
+2025-07-18 14:33:23,768 - INFO - New bottle detected: #1, Confidence: 0.76
+2025-07-18 14:33:39,087 - INFO - New bottle detected: #2, Confidence: 0.51
+2025-07-18 14:33:39,697 - INFO - New bottle detected: #3, Confidence: 0.64
+2025-07-18 14:33:39,938 - INFO - New bottle detected: #4, Confidence: 0.51
+2025-07-18 14:33:40,867 - INFO - New bottle detected: #5, Confidence: 0.51
+2025-07-18 14:33:41,162 - INFO - New bottle detected: #6, Confidence: 0.59
+2025-07-18 14:33:41,901 - INFO - New bottle detected: #7, Confidence: 0.59
+2025-07-18 14:33:47,987 - INFO - New bottle detected: #8, Confidence: 0.59
+2025-07-18 14:33:48,119 - INFO - New bottle detected: #9, Confidence: 0.57
+2025-07-18 14:33:48,218 - INFO - New bottle detected: #10, Confidence: 0.59
+2025-07-18 14:33:48,371 - INFO - New bottle detected: #11, Confidence: 0.58
+2025-07-18 14:34:05,082 - INFO - New bottle detected: #12, Confidence: 0.73
+2025-07-18 14:34:05,181 - INFO - New bottle detected: #13, Confidence: 0.55
+2025-07-18 14:35:12,915 - INFO - Donor name set to: naveen
+2025-07-18 14:47:33,651 - WARNING - Failed to capture frame
+2025-07-18 14:47:34,335 - WARNING - Failed to capture frame
+2025-07-18 14:47:34,448 - WARNING - Failed to capture frame
+2025-07-18 14:47:34,579 - WARNING - Failed to capture frame
+2025-07-18 14:47:34,696 - WARNING - Failed to capture frame
+2025-07-18 14:47:34,821 - WARNING - Failed to capture frame
+2025-07-18 14:47:34,945 - WARNING - Failed to capture frame
+2025-07-18 14:47:35,087 - WARNING - Failed to capture frame
+2025-07-18 14:47:35,202 - WARNING - Failed to capture frame
+2025-07-18 14:47:35,312 - WARNING - Failed to capture frame
+2025-07-18 14:47:35,436 - WARNING - Failed to capture frame
+2025-07-18 14:47:35,559 - WARNING - Failed to capture frame
+2025-07-18 14:47:35,684 - WARNING - Failed to capture frame
+2025-07-18 14:47:35,802 - WARNING - Failed to capture frame
+2025-07-18 14:47:35,914 - WARNING - Failed to capture frame
+2025-07-18 14:47:36,038 - WARNING - Failed to capture frame
+2025-07-18 14:47:36,156 - WARNING - Failed to capture frame
+2025-07-18 14:47:36,281 - WARNING - Failed to capture frame
+2025-07-18 14:47:36,395 - WARNING - Failed to capture frame
+2025-07-18 14:47:36,504 - WARNING - Failed to capture frame
+2025-07-18 14:47:36,638 - WARNING - Failed to capture frame
+2025-07-18 14:47:36,753 - WARNING - Failed to capture frame
+2025-07-18 14:47:36,865 - WARNING - Failed to capture frame
+2025-07-18 14:47:36,984 - WARNING - Failed to capture frame
+2025-07-18 14:47:37,101 - WARNING - Failed to capture frame
+2025-07-18 14:47:37,188 - INFO - Cleaning up resources...
+2025-07-18 14:47:37,363 - INFO - Cleanup completed
